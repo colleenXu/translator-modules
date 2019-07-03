@@ -16,7 +16,7 @@ html3
 # NCATS Dependencies
 #
 #mvp-module-library
-ontobio>=1.10.4
+ontobio
 biothings_client
 biolinkml
 fire
